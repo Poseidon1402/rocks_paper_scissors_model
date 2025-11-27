@@ -1,3 +1,5 @@
 datasets/
+test/
 .idea/
+models/
 *.db
