@@ -2,5 +2,6 @@ datasets/
 test/
 .idea/
 *.db
+anaconda_projects/
 __**__/
 *.pt
